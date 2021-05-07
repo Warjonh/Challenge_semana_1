@@ -47,4 +47,9 @@ Además de los tipos de computación en la nube, existen los llamados modelos de
         <th><strong>PaaS</strong></th>
         <th><strong>SaaS</strong></th>
     </tr>
+    <tr>
+        <td> <strong>Infraestructura como servicio o Infraestructure as a service por sus siglas en inglés (IaaS)</strong> es utilizado por administradores de sistemas. En este servicio se proporcionan recursos necesarios, redes, servidores, almacenamiento y firewalls todo en modo de servicio. <br> Como cliente tienes un control de la información mayor ya que puedes realizar acciones como implementar y ejecutar software de acuerdo a tus necesidades. A partir de la capa de virtualización eres dueño de todo, teniendo control del sistema operativo, almacenamiento y aplicaciones.</td>
+        <td> <strong>Plataforma como servicio o Platform as a service por sus siglas en inglés (PaaS)</strong> es utilizado de manera principal para desarrolladores de software. Aquí el proveedor maneja ya el sistema operativo, los lenguajes de programación, librerías y herramientas. Es una plataforma escalable y muy completa, donde el desarrollador solo se preocupa por el código de la aplicación. <br> Se debe de tomar en cuenta que aquí no se gestiona lo mismo que el servicio anterior, aquí se tiene control sobre las aplicaciones implementadas y algunos casos configuraciones del entorno.</td>
+        <td><strong> Software como servicio o Software as a service por sus siglas en inglés (SaaS) </strong> es el tipo de servicio donde un producto de proporciona de manera completa, se ofrece a través de un proveedor quien es el encargado de la administración. Aquí no existe la preocupación de la infraestructura ni el como se mantiene el servicio, simplemente se debe de consumir el servicio por lo que la única labor es aprender a utilizarlo. Este tipo de aplicaciones son accesibles a través de internet y en cualquier dispositivo usando un navegador web. </td>
+    </tr>
 </table>
