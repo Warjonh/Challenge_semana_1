@@ -35,5 +35,16 @@ Es la composición de los dos modelos de computación en la nube anteriormente m
 
 Es la combinación de dos o más implementaciones de nube del mismo tipo ya sea pública o privada. Por ello es posible combinar servicios de distintos proveedores de nube.
 
+> ### Servicios de la Computación en la Nube
 
+![servicios_nube](/images/servicios_nube.jpg)
 
+Además de los tipos de computación en la nube, existen los llamados modelos de servicio de computación en la nube que permiten elegir ya sea la flexibilidad, administración de la información y el nivel de control. Siendo los siguientes:
+
+<table>
+    <tr>
+        <th><strong>IaaS</strong></th>
+        <th><strong>PaaS</strong></th>
+        <th><strong>SaaS</strong></th>
+    </tr>
+</table>
