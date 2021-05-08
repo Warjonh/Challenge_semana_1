@@ -177,52 +177,106 @@ Estas son otras características de este servicio:
 > ### Bases de datos
 Azure proporciona varios servicios de base de datos para almacenar una gran variedad de volúmenes y tipos de datos. Y con la conectividad global, los usuarios disponen de estos datos al instante.
 
-TABLA 4
-Nombre del servicio	Función del servicio
-Azure Cosmos DB	Base de datos distribuida globalmente que admite opciones NoSQL.
-Azure SQL Database	Base de datos relacional totalmente administrada con escalado automático, inteligencia integral y seguridad sólida.
-Azure Database for MySQL	Base de datos relacional MySQL totalmente administrada y escalable con alta disponibilidad y seguridad.
-Azure Database for PostgreSQL	Base de datos relacional PostgreSQL totalmente administrada y escalable con alta disponibilidad y seguridad.
-SQL Server en Azure Virtual Machines	Servicio que hospeda aplicaciones empresariales de SQL Server en la nube.
-Azure Synapse Analytics	Almacén de datos totalmente administrado con seguridad integral en todos los niveles de escala sin costo adicional.
-Azure Database Migration Service	Servicio que migra bases de datos a la nube sin cambios en el código de aplicación.
-Azure Cache for Redis	Servicio totalmente administrado que almacena en caché datos estáticos y usados con frecuencia para reducir la latencia de datos y aplicaciones.
-Azure Database for MariaDB	Base de datos relacional MariaDB totalmente administrada y escalable con alta disponibilidad y seguridad.
+<table>
+    <tr>
+        <th><strong>Nombre del servicio</strong></th> <th><strong>Función del servicio</strong></th>
+    </tr>
+    <tr>
+        <td>Azure Cosmos DB</td> <td>Base de datos distribuida globalmente que admite opciones NoSQL.</td>
+    </tr>
+    <tr>
+        <td>Azure SQL Database</td> <td>Base de datos relacional totalmente administrada con escalado automático, inteligencia integral y seguridad sólida.</td>
+    </tr>
+    <tr>
+        <td>Azure Database for MySQL</td> <td>Base de datos relacional MySQL totalmente administrada y escalable con alta disponibilidad y seguridad.</td>
+    </tr>
+    <tr>
+        <td>Azure Database for PostgreSQL</td> <td>Base de datos relacional PostgreSQL totalmente administrada y escalable con alta disponibilidad y seguridad.</td>
+    </tr>
+    <tr>
+        <td>SQL Server en Azure Virtual Machines</td> <td>Servicio que hospeda aplicaciones empresariales de SQL Server en la nube.</td>
+    </tr>
+    <tr>
+        <td>Azure Synapse Analytics</td> <td>Almacén de datos totalmente administrado con seguridad integral en todos los niveles de escala sin costo adicional.</td>
+    </tr>
+    <tr>
+        <td>Azure Database Migration Service</td> <td>Servicio que migra bases de datos a la nube sin cambios en el código de aplicación.</td>
+    </tr>
+    <tr>
+        <td>Azure Cache for Redis</td> <td>Servicio totalmente administrado que almacena en caché datos estáticos y usados con frecuencia para reducir la latencia de datos y aplicaciones.</td>
+    </tr>
+    <tr>
+        <td>Azure Database for MariaDB</td> <td>Base de datos relacional MariaDB totalmente administrada y escalable con alta disponibilidad y seguridad.</td>
+    </tr>
+</table>
 
 > ### Web
 En el mundo empresarial actual es fundamental tener una experiencia web excelente. Azure incluye soporte técnico de primera clase para compilar y hospedar aplicaciones web y servicios web basados en HTTP. Los siguientes servicios de Azure se centran en el hospedaje web.
 
-TABLA 5
-Nombre del servicio	Descripción
-Azure App Service	Creación rápida de aplicaciones en la nube eficaces basadas en web.
-Azure Notification Hubs	Envíe notificaciones push a cualquier plataforma desde cualquier back-end.
-Azure API Management	Publique API para desarrolladores, asociados y empleados de forma segura y a escala.
-Azure Cognitive Search	Esta búsqueda completamente administrada se implementa como servicio.
-Característica Web Apps de Azure App Service	Cree e implemente rápidamente aplicaciones web críticas a escala.
-Servicio Azure SignalR	Agregue funcionalidades web en tiempo real con facilidad.
+<table>
+    <tr>
+        <th><strong>Nombre del servicio</strong></th> <th><strong>Descripción</strong></th>
+    </tr>
+    <tr>
+        <td>Azure App Service</td> <td>Creación rápida de aplicaciones en la nube eficaces basadas en web.</td>
+    </tr>
+	<tr>
+        <td>Azure Notification Hubs</td> <td>Envíe notificaciones push a cualquier plataforma desde cualquier back-end.</td>
+    </tr>
+	<tr>
+        <td>Azure API Management</td> <td>Publique API para desarrolladores, asociados y empleados de forma segura y a escala.</td>
+    </tr>
+	<tr>
+        <td>Azure Cognitive Search</td> <td>Esta búsqueda completamente administrada se implementa como servicio.</td>
+    </tr>
+	<tr>
+        <td>Característica Web Apps de Azure App Service</td> <td>Cree e implemente rápidamente aplicaciones web críticas a escala.</td>
+    </tr>
+	<tr>
+        <td>Servicio Azure SignalR</td> <td>Agregue funcionalidades web en tiempo real con facilidad.</td>
+    </tr>
+</table>
 
 > ### IoT
 Los usuarios pueden tener acceso a más información que nunca. Los asistentes digitales personales llevaron a los smartphones y ahora existen relojes inteligentes, termostatos inteligentes e incluso frigoríficos inteligentes. Los equipos estaban a la orden del día. Ahora, Internet permite que cualquier objeto capaz de conectarse tenga acceso a valiosa información. Esta capacidad de los dispositivos de obtener y luego retransmitir información para el análisis de datos se conoce como IoT (Internet de las cosas).
 
 Muchos servicios pueden ayudar e impulsar soluciones de un extremo a otro para IoT en Azure.
 
-TABLA 6
-Nombre del servicio	Descripción
-IoT Central	Solución global de software como servicio (SaaS) de IoT totalmente administrada que facilita la conexión, la supervisión y la administración de los recursos de IoT a escala.
-Azure IoT Hub	Centro de mensajería que proporciona comunicaciones y supervisión seguras entre millones de dispositivos de IoT.
-IoT Edge	Servicio totalmente administrado que permite insertar los modelos de análisis de datos directamente en los dispositivos IoT, lo que les permite responder rápidamente a los cambios de estado sin necesidad de consultar modelos de IA basados en la nube.
+<table>
+    <tr>
+        <th><strong>Nombre del servicio</strong></th> <th><strong>Descripción</strong></th>
+    </tr>
+    <tr>
+        <td>IoT Central</td> <td>Solución global de software como servicio (SaaS) de IoT totalmente administrada que facilita la conexión, la supervisión y la administración de los recursos de IoT a escala.</td>
+    </tr>
+	<tr>
+        <td>Azure IoT Hub</td> <td>Centro de mensajería que proporciona comunicaciones y supervisión seguras entre millones de dispositivos de IoT.</td>
+    </tr>
+	<tr>
+        <td>IoT Edge</td> <td>Servicio totalmente administrado que permite insertar los modelos de análisis de datos directamente en los dispositivos IoT, lo que les permite responder rápidamente a los cambios de estado sin necesidad de consultar modelos de IA basados en la nube.</td>
+    </tr>
+</table>
 
 > ### Macrodatos
 Los datos se presentan en cualquier formato y tamaño. Cuando hablamos sobre macrodatos, nos referimos a grandes volúmenes de datos. Los datos de los sistemas del tiempo, sistemas de comunicaciones, investigación genómica, plataformas de imágenes y muchos otros escenarios generan cientos de gigabytes de datos. Esta cantidad de datos hace que resulte difícil analizar y tomar decisiones. A menudo es tan grande que las formas de procesamiento y análisis tradicionales ya no son adecuadas.
 
 Se han desarrollado tecnologías de clúster de código abierto para tratar con estos grandes conjuntos de datos. Azure admite una amplia gama de tecnologías y servicios para proporcionar soluciones de análisis y macrodatos.
 
-TABLA 7
-Nombre del servicio	Descripción
-Azure Synapse Analytics	Ejecute análisis a gran escala mediante un almacenamiento de datos empresarial basado en la nube que aprovecha las ventajas del procesamiento paralelo masivo para ejecutar rápidamente consultas complejas en petabytes de datos.
-HDInsight de Azure	Procese grandes cantidades de datos con los clústeres administrados de Hadoop en la nube.
-Azure Databricks	Integre este servicio de análisis colaborativo basado en Apache Spark con otros servicios de macrodatos en Azure.
-
+<table>
+    <tr>
+        <th><strong>Nombre del servicio</strong></th> <th><strong>Descripción</strong></th>
+    </tr>
+	<tr>
+        <td>Azure Synapse Analytics</td> <td>Ejecute análisis a gran escala mediante un almacenamiento de datos empresarial basado en la nube que aprovecha las ventajas del procesamiento paralelo masivo para ejecutar rápidamente consultas complejas en petabytes de datos.</td>
+    </tr>
+	<tr>
+	<td>HDInsight de Azure</td> <td>Procese grandes cantidades de datos con los clústeres administrados de Hadoop en la nube.</td>
+    </tr>
+	<tr>
+	<td>Azure Databricks</td> <td>Integre este servicio de análisis colaborativo basado en Apache Spark con otros servicios de macrodatos en Azure.</td>
+    </tr>
+</table>
+	
 > ### INTELIGENCIA ARTIFICIAL
 En el contexto de la informática en la nube, la inteligencia artificial se basa en una amplia gama de servicios, donde el principal es el aprendizaje automático. El aprendizaje automático es una técnica de ciencia de datos que permite a los equipos utilizar datos existentes para prever tendencias, resultados y comportamientos futuros. Mediante el aprendizaje automático, los equipos aprenden sin necesidad de programarlos explícitamente.
 
@@ -230,24 +284,52 @@ Las previsiones o predicciones del aprendizaje automático pueden hacer que las 
 
 Estos son algunos de los tipos de servicios de inteligencia artificial y aprendizaje automático más comunes de Azure.
 
-TABLA 8
-Nombre del servicio	Descripción
-Azure Machine Learning Service	Entorno basado en la nube que puede usar para desarrollar, entrenar, probar, implementar, administrar y realizar un seguimiento de los modelos de aprendizaje automático. Puede generar y ajustar automáticamente un modelo. Le permite comenzar a entrenar en el equipo local y luego escalar horizontalmente a la nube.
-Azure ML Studio	Área de trabajo visual colaborativa donde puede compilar, probar e implementar soluciones de aprendizaje automático mediante algoritmos de aprendizaje automático predefinidos y módulos de control de datos.
+<table>
+    <tr>
+        <th><strong>Nombre del servicio</strong></th> <th><strong>Descripción</strong></th>
+    </tr>
+	<tr>
+	<td>Azure Machine Learning Service</td> <td>Entorno basado en la nube que puede usar para desarrollar, entrenar, probar, implementar, administrar y realizar un seguimiento de los modelos de aprendizaje automático. Puede generar y ajustar automáticamente un modelo. Le permite comenzar a entrenar en el equipo local y luego escalar horizontalmente a la nube.</td>
+    </tr>
+	<tr>
+	<td>Azure ML Studio</td> <td>Área de trabajo visual colaborativa donde puede compilar, probar e implementar soluciones de aprendizaje automático mediante algoritmos de aprendizaje automático predefinidos y módulos de control de datos.</td>
+    </tr>
+</table>	
+	
 Cognitive Services es un conjunto de productos estrechamente relacionados. Puede usar estas API precompiladas en las aplicaciones para solucionar problemas complejos.
 
-TABLA 9
-Nombre del servicio	Descripción
-Visión	Use algoritmos de procesamiento de imágenes para identificar, subtitular, indexar y moderar imágenes y vídeos.
-Voz	Convierta voz en texto, use la voz para la comprobación o agregue reconocimiento del hablante a la aplicación.
-Asignación de conocimiento	Asigne información y datos complejos para resolver tareas como las de recomendaciones inteligentes y búsqueda semántica.
-Bing Search	Agregue las Bing Search API a sus aplicaciones y aproveche la capacidad de combinar miles de millones de páginas web, imágenes, vídeos y noticias con una sola llamada API.
-Procesamiento de lenguaje natural	permita que las aplicaciones procesen lenguaje natural con scripts precompilados, evalúen opiniones y aprendan a reconocer lo que quieren los usuarios.
+<table>
+    <tr>
+        <th><strong>Nombre del servicio</strong></th> <th><strong>Descripción</strong></th>
+    </tr>
+	<tr>
+	<td>Visión</td> <td>Use algoritmos de procesamiento de imágenes para identificar, subtitular, indexar y moderar imágenes y vídeos.</td>
+    </tr>
+	<tr>
+	<td>Voz</td> <td>Convierta voz en texto, use la voz para la comprobación o agregue reconocimiento del hablante a la aplicación.</td>
+    </tr>
+	<tr>
+	<td>Asignación de conocimiento</td> <td>Asigne información y datos complejos para resolver tareas como las de recomendaciones inteligentes y búsqueda semántica.</td>
+    </tr>
+	<tr>
+	<td>Bing Search</td> <td>Agregue las Bing Search API a sus aplicaciones y aproveche la capacidad de combinar miles de millones de páginas web, imágenes, vídeos y noticias con una sola llamada API.</td>
+    </tr>
+	<tr>
+	<td>Procesamiento de lenguaje natural</td> <td>Permita que las aplicaciones procesen lenguaje natural con scripts precompilados, evalúen opiniones y aprendan a reconocer lo que quieren los usuarios.</td>
+    </tr>
+</table>
 
 > ### DevOps
 DevOps reúne a individuos, procesos y tecnología mediante la automatización de la entrega de software para ofrecer un valor continuo a los usuarios. Con Azure DevOps puede crear, compilar y publicar canalizaciones que proporcionan integración, entrega e implementación continuas a las aplicaciones. Puede integrar los repositorios y las pruebas de aplicaciones, realizar la supervisión de aplicaciones y trabajar con artefactos de compilación. También puede trabajar con elementos de trabajo pendiente para realizar el seguimiento, automatizar la implementación de la infraestructura e integrar una gama de herramientas y servicios de terceros como Jenkins y Chef. Todas estas funciones y muchas más están estrechamente integradas con Azure para permitir implementaciones coherentes y reproducibles para que las aplicaciones proporcionen unos procesos de compilación y lanzamiento optimizados.
 
-TABLA 10
-Nombre del servicio	Descripción
-Azure DevOps	Use herramientas de colaboración de desarrollo como canalizaciones de alto rendimiento, repositorios Git privados gratuitos, paneles Kanban configurables y completas pruebas de carga basadas en la nube y automatizadas. Anteriormente conocido como Visual Studio Team Services.
-Azure DevTest Labs	Cree rápidamente entornos de Windows y Linux a petición para probar o realizar demostraciones de las aplicaciones directamente desde canalizaciones de implementación.
+<table>
+    <tr>
+        <th><strong>Nombre del servicio</strong></th> <th><strong>Descripción</strong></th>
+    </tr>
+	<tr>
+	<td>Azure DevOps</td> <td>Use herramientas de colaboración de desarrollo como canalizaciones de alto rendimiento, repositorios Git privados gratuitos, paneles Kanban configurables y completas pruebas de carga basadas en la nube y automatizadas. Anteriormente conocido como Visual Studio Team Services.</td>
+    </tr>
+	<tr>
+	<td>Azure DevTest Labs</td> <td>Cree rápidamente entornos de Windows y Linux a petición para probar o realizar demostraciones de las aplicaciones directamente desde canalizaciones de implementación.</td>
+    </tr>
+</table>
